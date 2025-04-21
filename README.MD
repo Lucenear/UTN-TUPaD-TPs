@@ -5,6 +5,7 @@
 ## ✨ Estudiante  
 - **Nombre:** Farias, Gustavo 
 - **Comisión:** M2025-13  
+- **Matricula:** 101662
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
