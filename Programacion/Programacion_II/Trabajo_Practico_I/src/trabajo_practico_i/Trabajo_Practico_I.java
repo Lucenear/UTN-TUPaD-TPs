@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package holamundo;
+package trabajo_practico_i;
 
 /**
  *
  * @author lucenear
  */
-public class HolaMundo {
+public class Trabajo_Practico_I {
 
     /**
      * @param args the command line arguments
