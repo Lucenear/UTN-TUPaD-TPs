@@ -1,4 +1,3 @@
-# 💻 Programación II  
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
