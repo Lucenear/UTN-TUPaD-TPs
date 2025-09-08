@@ -1,7 +1,7 @@
 library(readxl)
 library(dplyr)
 
-ruta_archivo <- "TUPAD-2025-EST-TPI-planilla5.xlsx"
+ruta_archivo <- "../TUPAD-2025-EST-TPI-planilla5.xlsx"
 datos <- read_excel(ruta_archivo, sheet = "planilla")
 etiquetas_satisfaccion <- read_excel(ruta_archivo, sheet = "nivel de satisfacción")
 
