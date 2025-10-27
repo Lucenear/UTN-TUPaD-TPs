@@ -25,10 +25,8 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
    ```bash
    git clone https://github.com/Lucenear/UTN-TUPaD-TPs.git
 
-2. Abre el proyecto en NetBeans:
+2. Abri el proyecto en R:
     - Ve a Archivo → Abrir Proyecto.
     - Selecciona la carpeta del TP.
-
-3. Ejecuta las clases desde NetBeans.
 
 ⚠️ ¡Este repositorio está al día! Si ves algo desactualizado, hablame por favor 😉
