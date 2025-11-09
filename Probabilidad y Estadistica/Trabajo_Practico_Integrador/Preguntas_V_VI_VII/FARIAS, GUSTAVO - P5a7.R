@@ -204,9 +204,9 @@ cat("7a. P(X >= 179 cm) =", round(prob_7a, 4), "\n")
 prob_7b <- pnorm(172, mu, sigma) - pnorm(147, mu, sigma)
 cat("7b. P(147 < X < 172) =", round(prob_7b, 4), "\n")
 
-# 7c. Percentil 2.5 (excede al 97.5%)
-valor_7c <- qnorm(0.025, mu, sigma)
-cat("7c. Percentil 2.5 =", round(valor_7c, 1), "cm\n")
+# 7c. Valor que excede al 97.5%
+valor_7c <- qnorm(0.975, mu, sigma) # CORREGIDO: habia puesto 0.025
+cat("7c. Valor que excede al 97.5% =", round(valor_7c, 1), "cm\n")
 
 # Parametros usados
 cat("\n---> PARAMETROS USADOS EN MODELO NORMAL ---\n")
