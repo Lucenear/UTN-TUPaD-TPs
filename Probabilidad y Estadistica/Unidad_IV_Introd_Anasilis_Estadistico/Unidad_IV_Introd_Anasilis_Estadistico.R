@@ -26,3 +26,10 @@ summary(modelo)
 
 # Extraigo coeficientes
 coef(modelo)
+
+
+### EJERCICIO 4 ###
+#Prediccion con 11 hocas de capacitacion
+predict(modelo, newdata = data.frame(horas = 11))
+
+
